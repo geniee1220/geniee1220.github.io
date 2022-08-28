@@ -24,7 +24,7 @@ a {
 }
 
 mark {
-  color: #4384fe;
+  color: #213ee5;
   background-color: unset;
 }
 
@@ -130,7 +130,7 @@ body .container section .skills-wrapper .skills-list li::before {
   left: 0;
   display: inline-block;
   content: "•";
-  color: #4384fe;
+  color: #322f9c;
 }
 
 body .container footer {
